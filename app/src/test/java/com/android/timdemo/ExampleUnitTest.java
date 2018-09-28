@@ -1,4 +1,4 @@
-package com.android.timdeom;
+package com.android.timdemo;
 
 import org.junit.Test;
 

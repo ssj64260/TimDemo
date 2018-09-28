@@ -1,4 +1,4 @@
-package com.android.timdeom;
+package com.android.timdemo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
